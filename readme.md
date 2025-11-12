@@ -31,7 +31,7 @@
 
 ### 2. Implementasi **DYNAMIC CIRCULAR ARRAY** (Optimal)
 
-#### File: `queue.h` (Header File - Complete API)
+#### File: `queue.h` (Header File)
 ```cpp
 #ifndef QUEUE_H
 #define QUEUE_H
@@ -87,7 +87,7 @@ public:
 #endif
 ```
 
-#### File: `queue.cpp` (Implementation - Production Ready)
+#### File: `queue.cpp` (Implementation)
 ```cpp
 #include "queue.h"
 #include <cstring>
